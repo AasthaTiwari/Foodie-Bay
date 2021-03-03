@@ -19,6 +19,7 @@
 }
 #navbar{
     background-color: black;
+    opacity:0.8;
     z-index: -1;
 }
 #navbar ul{
@@ -98,4 +99,7 @@ h1{
 }
 h2{
     margin-left: 50px;
+}
+.carousel-inner{
+    opacity:0.8;
 }
